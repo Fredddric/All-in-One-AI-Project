@@ -38,7 +38,7 @@ This project demonstrates the integration of the DeepSeek AI API into a Python a
 
 ## Future Enhancements
 
-- Adding more DeepSeek AI capabilities as they become available
+- Adding more AI capabilities as they become available
 - Implementing conversation history for text generation
 - Adding export functionality for AI-generated content
 - Creating a more advanced model fine-tuning section
